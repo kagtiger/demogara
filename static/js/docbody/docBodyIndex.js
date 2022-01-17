@@ -8,7 +8,7 @@ doc_body = {
         'url':'./templates/index_waper_v1.html'
     },
     'all_footer_v1':{
-        'element':'#waper',
+        'element':'#footer',
         'url':'./templates/all_footer_v1.html'
     }
 
